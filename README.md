@@ -1,24 +1,35 @@
-# README
+# Semaine 7 THP - Private Club
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![CADEAU](https://img.youtube.com/vi/WYevWKIKjYw/0.jpg)](https://www.youtube.com/watch?v=WYevWKIKjYw)
 
-Things you may want to cover:
+### Application
 
-* Ruby version
+Création d'une application en TDD, où nous écrivons les tests avant de faire le code de celle-ci.
+1. Utilisateurs
+2. Sessions
+3. Navigation
+4. La page du club
 
-* System dependencies
+### Tests unitaires 😺 :
 
-* Configuration
+**- Les tests de modèles** <br>
+Oops, j'ai utilisé Rspec<br>
 
-* Database creation
+**- Tester les views** <br>
 
-* Database initialization
+### Instal'
 
-* How to run the test suite
+```
+git clone https://github.com/Jordane21/PrivateClub
+```
+```
+bundle install --without production
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+rails db:migrate
+```
 
-* Deployment instructions
+#### Slack 💌
 
-* ...
+Jordane : @Jordane :pig_nose: 
